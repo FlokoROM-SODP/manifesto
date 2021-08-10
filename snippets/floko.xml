@@ -33,7 +33,7 @@
           <linkfile src="target" dest="build/target" />
           <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="frameworks/base" name="FlokoROM/frameworks_base" remote="floko" />
+  <project path="frameworks/base" name="FlokoROM-SODP/frameworks_base" remote="floko" />
   <project path="lineage-sdk" name="FlokoROM/lineage-sdk" remote="floko" />
   <project path="packages/apps/crDroidSettings" name="FlokoROM/packages_apps_FlokoSettings" remote="floko" />
   <project path="packages/apps/LineageParts" name="FlokoROM/packages_apps_LineageParts" remote="floko" />
